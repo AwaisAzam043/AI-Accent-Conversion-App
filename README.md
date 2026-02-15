@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <div>&nbsp;</div>
   <img src="resources/openvoicelogo.jpg" width="400"/> 
@@ -68,3 +69,7 @@ OpenVoice V1 and V2 are MIT Licensed. Free for both commercial and research use.
 
 ## Acknowledgements
 This implementation is based on several excellent projects, [TTS](https://github.com/coqui-ai/TTS), [VITS](https://github.com/jaywalnut310/vits), and [VITS2](https://github.com/daniilrobnikov/vits2). Thanks for their awesome work!
+=======
+# AI-Accent-Conversion-App
+OpenVoice can accurately clone the reference tone color and generate speech in multiple languages and accents.penVoice enables granular control over voice styles, such as emotion and accent, as well as other style parameters including rhythm, pauses, and intonation.
+>>>>>>> ce61bb47affc72c9f56676203692f6d019ed084b
